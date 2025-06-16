@@ -5,6 +5,7 @@ import cv2
 from PIL import Image
 import numpy as np
 
+
 # Konfigurasi halaman Streamlit
 st.set_page_config(page_title="Deteksi Emosi Wajah", layout="centered")
 st.title("😊 Aplikasi Deteksi Ekspresi Wajah")
