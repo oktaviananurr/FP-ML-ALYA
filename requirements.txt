@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+matplotlib
+pillow
+moviepy
+scipy
+tensorflow
+fer
